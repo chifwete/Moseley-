@@ -27,6 +27,8 @@ Below is my roadmap on how I intend to make my visions a success.
 4.	Being conversant with at least one scripting language (python) - Learn from the resources, personal practice, consulting colleagues and trainers.
 5.	Gain familiarity with functional genetic and genomic data -This will be done through learning from the resources provided, discussion with colleagues and guidance from trainers.
 
+At the end of my internship, I would love to see myself at a better position in terms of Bioinformatics than I am right now, to have a clear defined path in terms of proceeding with this as my career and further use these skills acquired in solving research questions.
+
 
 
 
